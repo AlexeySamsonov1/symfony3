@@ -1,0 +1,3 @@
+mybundle_index:
+    path:      /test
+    defaults:  { _controller: TestMyBundle:My:index }
