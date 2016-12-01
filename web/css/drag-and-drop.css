@@ -1,0 +1,22 @@
+.drag {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    display: inline-block;
+    margin-right: 10px;
+}
+#boxB{
+    margin-right: 0px;
+}
+#big {
+    width: 415px;
+    height: 400px;
+    background: red;
+    margin: 20px auto;
+}
+section {
+    width: 415px;
+    height: 200px;
+    background:gray;
+    margin: 20px auto;
+}
